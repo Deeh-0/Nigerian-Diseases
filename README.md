@@ -1,1 +1,1 @@
-# Nigerian-Diseases
+#While waiting for approval for my capstone project after completing my recent Data Analysis course, I spent two days honing my Python abilities. During this time, I worked on practical exercises, code snippets, and research to solve new difficulties. This deliberate exercise sought to improve my Python programming skills and broaden my comprehension of many ideas.
